@@ -68,7 +68,7 @@ function Invitation() {
   // Mendeklarasikan fungsi asinkron bernama storeBiodata yang menerima parameter data
   async function storeInvitation(data) {
     // Membuat referensi ke dokumen di dalam koleksi "biodata" dengan ID berdasarkan email dari data
-    const docRef = doc(db, "/coment/" + data.nama);
+    const docRef = doc(db, "/coment/" + data.time);
 
     // Menyimpan data ke dokumen yang direferensikan, menunggu operasi ini selesai sebelum melanjutkan
     const store = await setDoc(docRef, data);
