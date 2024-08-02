@@ -135,7 +135,7 @@ function Invitation() {
       </div>
       <img className="img_top" src="/wayang.png" alt="" />
       <CountdownTimer targetDate={targetDate}/> 
-      <a className="calendar" href="https://calendar.app.google/9iPDAkKjVe5nqUEh9">
+      <a className="calendar" href="https://calendar.app.google/qoKKs8QbWAjaGxwz8">
       <button className="btn-calendar">Add To Google Calendar</button>
       </a>
       
