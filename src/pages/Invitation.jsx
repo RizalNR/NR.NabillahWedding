@@ -164,8 +164,7 @@ function Invitation() {
       <div className="detail_name">
       <h1>Ayudyah Ainun Nabillah, S.H</h1>
         <p>
-          Putri Kedua Dari: <br /> Pelda (Purn) Slamet Riyanto & Ibu Arni Maya Nur
-          Priyatin
+          Putri Kedua Dari: <br /> Peltu (Purn TNI AD) Slamet Riyanto dan Ibu Arni Maya N.P.
         </p>
         
       </div>
@@ -205,8 +204,8 @@ function Invitation() {
 
         <address>
           Kediaman Mempelai Wanita <br/>
-          Jl. Kendeng No.36 RT 08/RW 14, Sidanegara, Cilacap, Jawa
-          Tengah 
+          Jl. Kendeng No.36 RT08 RW14, Sidanegara, Cilacap, Jawa
+          Tengah , Samping SD Negeri 03 Sidanegara
         </address>
 
         <details>
@@ -363,7 +362,7 @@ function Invitation() {
 
       <div id="audio_container" className="audio-box">
         <audio ref={audioRef} id="song" hidden controls loop autoPlay>
-          <source src="https://res.cloudinary.com/rizalnr/video/upload/v1647408382/musik/Akad_eahoms.mp3" />
+          <source src="https://res.cloudinary.com/rizalnr/video/upload/v1724046264/Nyoman_Paul_Andi_Rianto_The_Way_You_Look_At_Me_d6lcry.mp3" />
         </audio>
       </div>
       <button className="btn_play_pause" onClick={togglePlayPause}>{isPlaying ?  <FaCirclePause /> : <FaPlayCircle /> }</button>
