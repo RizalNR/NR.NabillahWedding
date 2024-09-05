@@ -164,7 +164,7 @@ function Invitation() {
       <div className="detail_name">
       <h1>Ayudyah Ainun Nabillah, S.H</h1>
         <p>
-          Putri Kedua Dari: <br /> Peltu (Purn TNI AD) Slamet Riyanto dan Ibu Arni Maya N.P.
+          Putri Kedua Dari: <br /> Peltu Purn. Yanto, TNI AD dan Ibu Arni Maya N.P.
         </p>
         
       </div>
@@ -182,7 +182,7 @@ function Invitation() {
       <div className="detail_name">
       <h1>Rizal Nur Ramadhan, S.Kom</h1>
         <p>
-          Putra Pertama Dari: <br /> Mayor Laut (E) Nurjaya & (Almh) Ibu Lilik Rustiana
+          Putra Pertama Dari: <br /> May. Laut (E) Nurjaya & (Almh) Ibu Lilik Rustiana
         </p>
       </div>
     </div>
